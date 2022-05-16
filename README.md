@@ -4,7 +4,8 @@
 ## コンペの目的  
 
 ## 評価指標  
-
+日次スプレッドのシャープレシオによって算出される  
+詳しい説明：(シャープレシオ)[https://en.wikipedia.org/wiki/Sharpe_ratio]
 ## Overview
 Success in any financial market requires one to identify solid investments. When a stock or derivative is undervalued, it makes sense to buy. If it's overvalued, perhaps it's time to sell. While these finance decisions were historically made manually by professionals, technology has ushered in new opportunities for retail investors. Data scientists, specifically, may be interested to explore quantitative trading, where decisions are executed programmatically based on predictions from trained models.
 
